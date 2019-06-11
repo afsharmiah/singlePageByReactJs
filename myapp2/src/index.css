@@ -1,0 +1,36 @@
+body {
+  background-color: #CCCCFF;
+  padding: 20px;
+  margin: 0;
+}
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  text-align: center;
+}
+.header {
+  background-color: #6699FF;
+  padding: 0;
+}
+.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 25px;
+  display: inline-block;
+}
+.content {
+  background-color: #FF66CC;
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
